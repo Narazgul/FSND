@@ -1,6 +1,13 @@
 .vscode
 __pycache__
 venv
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+class-demo/
+env/
 
 # OS generated files #
 ######################
